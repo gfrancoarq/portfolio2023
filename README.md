@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-
-  <h3><b>Franco's Portfolio: Full Stack Software Developer</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -26,9 +19,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Software Developer Profesional Portfolio] <a name="about-project"></a>
+# 📖 Software Developer Profesional Portfolio <a name="about-project"></a>
 
-**[Welcome!]** Explore my professional portfolio showcasing a wide range of full-stack software development projects. Discover my skills, preferred technologies, and expertise in web development, databases, and API integrations. Get a glimpse of my passion for creating innovative, user-friendly solutions. Connect and collaborate with me on exciting opportunities!
+**Welcome!** Explore my professional portfolio showcasing a wide range of full-stack software development projects. Discover my skills, preferred technologies, and expertise in web development, databases, and API integrations. Get a glimpse of my passion for creating innovative, user-friendly solutions. Connect and collaborate with me on exciting opportunities!
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,7 +47,7 @@ Responsive design, interactive user interface, seamless navigation, dynamic cont
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
 
@@ -90,6 +83,7 @@ Now you have a local copy of the project set up on your machine and can start wo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -101,6 +95,10 @@ Now you have a local copy of the project set up on your machine and can start wo
 - LinkedIn: [gustavfranco](https://linkedin.com/in/gustavfranco)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Feature <a name="authors"></a>
+
+- Make it dynamic and interactive
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -123,8 +121,6 @@ If you like this project, we invite you to join us in supporting our project and
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
