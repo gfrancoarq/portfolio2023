@@ -1,39 +1,9 @@
 <a name="readme-top"></a>
 
-<!--
-!!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
-
-You should modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
-
-For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
--->
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Franco's Portfolio: Full Stack Software Developer</b></h3>
 
 </div>
 
@@ -49,70 +19,32 @@ For more information on the importance of a professional README for your reposit
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Software Developer Profesional Portfolio] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**[Welcome!]** Explore my professional portfolio showcasing a wide range of full-stack software development projects. Discover my skills, preferred technologies, and expertise in web development, databases, and API integrations. Get a glimpse of my passion for creating innovative, user-friendly solutions. Connect and collaborate with me on exciting opportunities!
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
+Front-end: HTML, CSS, JavaScript, Back-end: Node.js, Express.js, Database: PostgreSQL.
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+Responsive design, interactive user interface, seamless navigation, dynamic content, GitHub Pages hosting
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -130,75 +62,31 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+1. A web browser: Make sure you have a web browser installed on your computer to view the HTML page.
 
-```sh
- gem install rails
-```
- -->
+2. Text editor: You will need a text editor to view and edit the HTML and CSS files. Popular text editors include Visual Studio Code, Sublime Text, and Atom.
+
+3. Git: Install Git on your computer to clone the repository and manage version control. You can download Git from the official website (https://git-scm.com/).
+
+4. Basic knowledge of HTML and CSS: Familiarize yourself with HTML and CSS syntax to understand and make changes to the project files.
+
+Once you have these prerequisites in place, you are ready to run and work on the project.
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone the repository: Run the command git clone [repository URL] in your terminal to create a local copy of the project on your machine.
 
-<!--
-Example commands:
+Navigate to the project directory: Use the cd command to navigate to the project's directory.
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+Open the project: Use your preferred code editor to open the project's files.
 
-### Install
+View the web page: Open the HTML file in a web browser to view the "Hello Microverse Project" heading.
 
-Install this project with:
+Make changes (optional): If desired, you can modify the HTML or CSS files to customize the project according to your preferences.
 
-<!--
-Example command:
+Commit and push changes: After making changes, use the git add . command to stage the changes, then git commit -m "[commit message]" to commit the changes. Finally, use git push to push the changes to the remote repository.
 
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Now you have a local copy of the project set up on your machine and can start working on it or exploring its code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,35 +94,13 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@gfrancoarq](https://github.com/gfrancoarq)
+- Twitter: [@gfrancoarq](https://twitter.com/Gfrancoarq)
+- LinkedIn: [gustavfranco](https://linkedin.com/in/gustavfranco)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -248,37 +114,10 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, we invite you to join us in supporting our project and making a difference. Your support is crucial in driving our mission forward and creating positive change. Whether it's through sharing our project with others, providing valuable feedback, or collaborating with us, every action you take can have a significant impact. Together, let's make a lasting difference and create a better future. Thank you for your support!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
