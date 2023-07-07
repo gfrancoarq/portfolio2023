@@ -90,6 +90,10 @@ Now you have a local copy of the project set up on your machine and can start wo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Future Feature <a name="authors"></a>
+
+- [ ] Add the project section 
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -123,8 +127,6 @@ If you like this project, we invite you to join us in supporting our project and
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
