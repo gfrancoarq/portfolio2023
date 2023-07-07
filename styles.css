@@ -11,13 +11,11 @@ html {
 body {
   font-family: Poppins, sans-serif;
   background-color: #e5e5e5;
-}
-
-.wrapper {
   background: #fff;
   border-bottom-left-radius: 60px;
   margin-bottom: 114px;
 }
+
 
 /** Start header Section **/
 .header {
@@ -37,9 +35,9 @@ body {
 .hamburger {
   display: block;
   cursor: none;
-  position: absolute;
-  right: 13%;
-  top: 3%;
+  border: none;
+  background: none;
+  padding: 0;
 }
 
 .hamburger:hover {
