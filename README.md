@@ -8,13 +8,14 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -35,19 +36,9 @@ Responsive design, interactive user interface, seamless navigation, dynamic cont
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-
 
 To get a local copy up and running, follow these steps.
 
@@ -100,7 +91,7 @@ Now you have a local copy of the project set up on your machine and can start wo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Feature <a name="authors"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
 - Make it dynamic and interactive
 
@@ -120,6 +111,13 @@ If you like this project, we invite you to join us in supporting our project and
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse and my coding partner for their invaluable support and contribution to the codebase.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
