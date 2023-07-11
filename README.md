@@ -89,7 +89,6 @@ Now you have a local copy of the project set up on your machine and can start wo
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Gustavo Franco**
-
 - GitHub: [@gfrancoarq](https://github.com/gfrancoarq)
 - Twitter: [@gfrancoarq](https://twitter.com/Gfrancoarq)
 - LinkedIn: [gustavfranco](https://linkedin.com/in/gustavfranco)
