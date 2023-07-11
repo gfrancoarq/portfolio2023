@@ -88,11 +88,16 @@ Now you have a local copy of the project set up on your machine and can start wo
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Gustavo Franco**
 
 - GitHub: [@gfrancoarq](https://github.com/gfrancoarq)
 - Twitter: [@gfrancoarq](https://twitter.com/Gfrancoarq)
 - LinkedIn: [gustavfranco](https://linkedin.com/in/gustavfranco)
+
+👤 **Stanley Osagie Ramos**
+- GitHub: [@sagieramos](https://github.com/sagieramos)
+- Twitter: [@sagieramos](https://twitter.com/sagieramos)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sagieramos)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
